@@ -1,0 +1,1 @@
+# C-Users-NUGO-AndroidStudioProjects-MyApplication2-app-src-main-res-layout-activity_main.xml
